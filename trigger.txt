@@ -1,1 +1,1 @@
-bitnami/pushgateway:1.9.0 ngiq-registry.cn-hangzhou.cr.aliyuncs.com/ngiq-cr/bitnami/pushgateway:v1.9.0
+curlimages/curl:8.8.0 ngiq-registry.cn-hangzhou.cr.aliyuncs.com/ngiq-cr/public/curl:8.8.0
