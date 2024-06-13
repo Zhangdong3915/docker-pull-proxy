@@ -1,1 +1,1 @@
-node:19 ngiq-registry.cn-hangzhou.cr.aliyuncs.com/ngiq-cr/node:19
+steebchen/nginx-spa:stable ngiq-registry.cn-hangzhou.cr.aliyuncs.com/ngiq-cr/nginx-spa:stable
